@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Venkat Bandaru
+Build-Jdk: 15
+Implementation-Title: online-loan-prediction
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.uncc.ssdi
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.uncc.ssdi.SpringBootFormHandingApplication
+Created-By: Maven Integration for Eclipse
+
